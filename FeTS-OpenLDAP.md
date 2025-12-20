@@ -54,8 +54,8 @@ sudo chmod 700 /usr/local/var/openldap-data
 ### Konfigurationsdatei bearbeiten
 Datei `/usr/local/etc/openldap/slapd.conf` anpassen:
 ```
-suffix: dc=fets,dc=local
-rootdn: cn=Manager,dc=fets,dc=local
+suffix dc=fets,dc=local
+rootdn cn=Manager,dc=fets,dc=local
 ```
 ### Konfiguration testen
 ```bash

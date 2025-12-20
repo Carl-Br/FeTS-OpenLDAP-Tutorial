@@ -225,23 +225,7 @@ updateref ldap://IP_Provider:389
 #######################################################################
 ```
 
-### 5.2 Base LDIF erstellen
-
-Datei `/usr/local/etc/openldap/base.ldif` auf VM2 erstellen:
-
-```ldif
-dn: dc=fets,dc=local
-objectClass: dcObject
-objectClass: organization
-o: fets company
-dc: fets
- 
-dn: cn=Manager,dc=fets,dc=local
-objectClass: organizationalRole
-cn: Manager
-```
-
-### 5.3 SLAPD neu starten
+### 5.2 SLAPD neu starten
 
 ```bash
 sudo pkill -9 slapd

@@ -173,14 +173,14 @@ sudo /usr/local/libexec/slapd \
 Replicator-Benutzer hinzufügen:
 ```bash
 ldapadd -x -H ldap://127.0.0.1:389 \
-  -D "cn=Manager,dc=fets,dc=local" -W \
+  -D "cn=Manager,dc=fets,dc=local" -w secret \
   -f /usr/local/etc/openldap/replicator.ldif
 ```
 
 #### Provider bestätigen
 ```bash
 ldapwhoami -x -H ldap://127.0.0.1:389 \
-  -D "cn=replicator,dc=fets,dc=local" -W
+  -D "cn=replicator,dc=fets,dc=local" -w secret
 ```
 
 *Erwartete Ausgabe:* `dn: cn=replicator,dc=fets,dc=local`

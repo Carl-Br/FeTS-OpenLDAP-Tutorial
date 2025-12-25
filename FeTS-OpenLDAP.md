@@ -193,7 +193,7 @@ ldapwhoami -x -H ldap://127.0.0.1:389 \
 In `/usr/local/etc/openldap/slapd.conf` folgende Konfiguration verwenden:
 
 > [!Important]
-> `IP_Provider` muss 2 mal durch die tatsächliche IP-Adresse des Providers ersetzen!
+> `IP_Provider` muss 2 mal durch die tatsächliche IP-Adresse des Providers ersetzt werden!
 
 ```
 #######################################################################

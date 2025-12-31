@@ -30,7 +30,6 @@
 
 ---
 
----
 Es wird `ITS_Client_Debian12_AMD64_V02.ova`verwendet
 
 ## 1. Vorbereitung - IPv4-Adressen konfigurieren

@@ -746,4 +746,8 @@ http://IP_DES_SERVERS/protected/
 #### Login-Credentials
 -  `mmueller`: `geheim123`
 -  `aschmidt`: `geheim456`
+<img width="3837" height="1885" alt="Unbenannt" src="https://github.com/user-attachments/assets/fb8a675e-fd29-475a-a7ef-0c0f048ca66e" />
+<img width="3775" height="1853" alt="Unbenannt1" src="https://github.com/user-attachments/assets/1c0eafb3-4cea-4b76-9206-072afa4f1298" />
+<img width="3802" height="1727" alt="Unbenannt2" src="https://github.com/user-attachments/assets/e21358be-5a92-4d87-8e53-e95c7487ee28" />
+
 

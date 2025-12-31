@@ -310,10 +310,6 @@ sudo /usr/local/libexec/slapd \
   -h "ldap://0.0.0.0:389"
 ```
 
-**6. Prüfen ob SLAPD läuft:**
-```bash
-ps aux | grep slapd
-```
 
 ### 7.1 Organisationsstruktur aufbauen
 

@@ -58,8 +58,8 @@ Datei `/usr/local/etc/openldap/slapd.conf` anpassen:
 sudo vim /usr/local/etc/openldap/slapd.conf
 ```
 ```
-suffix dc=fets,dc=local
-rootdn cn=Manager,dc=fets,dc=local
+suffix "dc=fets,dc=local"
+rootdn "cn=Manager,dc=fets,dc=local"
 ```
 ### Konfiguration testen
 ```bash

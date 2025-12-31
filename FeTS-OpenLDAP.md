@@ -15,22 +15,18 @@
    - 4.3 Replikations-Konfiguration
    - 4.4 Replicator-Benutzer erstellen
 5. [Consumer-Konfiguration (VM2)](#5-consumer-konfiguration-vm2)
-   - 5.1 SLAPD-Konfiguration anpassen
-   - 5.2 SLAPD neu starten
 6. [Replikation validieren](#6-replikation-validieren)
 7. [Demo - Benutzer und Organisationsstruktur anlegen](#7-demo---benutzer-und-organisationsstruktur-anlegen)
    - 7.0 Schemas für Benutzer-Objekte prüfen und hinzufügen
    - 7.1 Organisationsstruktur aufbauen
    - 7.2 Benutzer anlegen
    - 7.3 Gruppen erstellen
-   - 7.4 Replikation prüfen
 8. [Apache Webserver mit LDAP-Authentifizierung](#8-apache-webserver-mit-ldap-authentifizierung)
    - 8.1 Apache installieren
    - 8.2 LDAP-Module aktivieren
    - 8.3 Demo-Webseiten erstellen
    - 8.4 Apache Virtual Host konfigurieren
    - 8.5 Site aktivieren
-   - 8.6 Testen
 
 ---
 

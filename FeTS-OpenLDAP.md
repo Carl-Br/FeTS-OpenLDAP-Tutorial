@@ -269,6 +269,8 @@ ldapsearch -x -H ldap://127.0.0.1:389 \
 ## 7. Demo - Benutzer und Organisationsstruktur anlegen
 
 ### 7.0 Schemas für Benutzer-Objekte prüfen und hinzufügen
+> [!Important]
+> Dieser Schritt muss auf beiden VMS gemacht werden.
 
 Bevor wir Benutzer anlegen können, müssen die erforderlichen Schemas geladen sein.
 

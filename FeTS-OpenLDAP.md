@@ -21,12 +21,9 @@
    - 7.1 Organisationsstruktur aufbauen
    - 7.2 Benutzer anlegen
    - 7.3 Gruppen erstellen
-8. [Apache Webserver mit LDAP-Authentifizierung](#8-apache-webserver-mit-ldap-authentifizierung)
-   - 8.1 Apache installieren
-   - 8.2 LDAP-Module aktivieren
-   - 8.3 Demo-Webseiten erstellen
-   - 8.4 Apache Virtual Host konfigurieren
-   - 8.5 Site aktivieren
+8. [Vikunja (Todo App) mit LDAP-Authentifizierung](#8-Vikunja-(Todo-App)-mit-LDAP-Authentifizierung)
+   - 8.0 nginx proxy
+   - Vikunja
 
 ---
 

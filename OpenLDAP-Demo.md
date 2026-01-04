@@ -57,8 +57,9 @@ ldapsearch -x -H ldap://127.0.0.1:389 \
 ```
 
 Vikunja anmelden
-User: `hschmidt`
+User: `pschmidt`
 PW: `geheim456`
 
 ### Provider VM aussschalten
 und dann wider bei Vikunja anmelden
+
